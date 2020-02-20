@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1582076148 source:d:\gonzalez santiago\practica final 2020\controller.c
+	<stdio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Usuarios.h"
+
+1580264962 d:\gonzalez santiago\practica final 2020\linkedlist.h
+
+1581889454 d:\gonzalez santiago\practica final 2020\controller.h
+
+1582076044 d:\gonzalez santiago\practica final 2020\usuarios.h
+
+1581887220 source:d:\gonzalez santiago\practica final 2020\linkedlist.c
+	<stdio.h>
+	"LinkedList.h"
+	"Usuarios.h"
+
+1581982364 source:d:\gonzalez santiago\practica final 2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Usuarios.h"
+	"parser.h"
+
+1581887158 d:\gonzalez santiago\practica final 2020\parser.h
+
+1582076512 source:d:\gonzalez santiago\practica final 2020\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Usuarios.h"
+
+1582076084 source:d:\gonzalez santiago\practica final 2020\usuarios.c
+	<stdio.h>
+	"Usuarios.h"
+
+1582074684 source:d:\gonzalez santiago\practica final 2020\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1580264962 d:\gonzalez santiago\practica final 2020\validaciones.h
+
+1582074684 source:d:\gonzalez santiago\gonzalez santiago\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1580264962 d:\gonzalez santiago\gonzalez santiago\validaciones.h
+
+1582123580 source:d:\gonzalez santiago\gonzalez santiago\computer.c
+	<stdio.h>
+	"Computer.h"
+
+1582121699 d:\gonzalez santiago\gonzalez santiago\computer.h
+
+1582123200 source:d:\gonzalez santiago\gonzalez santiago\controller.c
+	<stdio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Computer.h"
+
+1582121568 d:\gonzalez santiago\gonzalez santiago\linkedlist.h
+
+1581889454 d:\gonzalez santiago\gonzalez santiago\controller.h
+
+1582122707 source:d:\gonzalez santiago\gonzalez santiago\linkedlist.c
+	<stdio.h>
+	"LinkedList.h"
+	"Computer.h"
+
+1582123458 source:d:\gonzalez santiago\gonzalez santiago\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Computer.h"
+	"parser.h"
+
+1581887158 d:\gonzalez santiago\gonzalez santiago\parser.h
+
+1582115292 source:d:\gonzalez santiago\gonzalez santiago\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Computer.h"
+
+1582161568 source:c:\users\santigo\desktop\final 19022020\gonzalez santiago\computer.c
+	<stdio.h>
+	"Computer.h"
+
+1582160038 c:\users\santigo\desktop\final 19022020\gonzalez santiago\computer.h
+
+1582159696 source:c:\users\santigo\desktop\final 19022020\gonzalez santiago\controller.c
+	<stdio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Computer.h"
+
+1582121570 c:\users\santigo\desktop\final 19022020\gonzalez santiago\linkedlist.h
+
+1582158148 c:\users\santigo\desktop\final 19022020\gonzalez santiago\controller.h
+
+1582161976 source:c:\users\santigo\desktop\final 19022020\gonzalez santiago\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Computer.h"
+	"parser.h"
+	<windows.h>
+
+1581887158 c:\users\santigo\desktop\final 19022020\gonzalez santiago\parser.h
+
+1582115294 source:c:\users\santigo\desktop\final 19022020\gonzalez santiago\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Computer.h"
+
+1582159871 source:c:\users\santigo\desktop\final 19022020\gonzalez santiago\linkedlist.c
+	<stdio.h>
+	"LinkedList.h"
+	"Computer.h"
+
