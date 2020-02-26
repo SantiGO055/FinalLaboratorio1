@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1543620087 source:c:\users\eli\documents\utn\biblioteca y funciones\linkedlist\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1543615138 c:\users\eli\documents\utn\biblioteca y funciones\linkedlist\linkedlist\linkedlist.h
+
+1543615138 c:\users\eli\documents\utn\biblioteca y funciones\linkedlist\linkedlist\controller.h
+
+1543616495 c:\users\eli\documents\utn\biblioteca y funciones\linkedlist\linkedlist\employee.h
+
+1543616020 c:\users\eli\documents\utn\biblioteca y funciones\linkedlist\linkedlist\parser.h
+
+1543618430 source:c:\users\eli\documents\utn\biblioteca y funciones\linkedlist\linkedlist\controller.c
+	<stdio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1543616494 source:c:\users\eli\documents\utn\biblioteca y funciones\linkedlist\linkedlist\employee.c
+	<stdio.h>
+	"Employee.h"
+
+1543618174 source:c:\users\eli\documents\utn\biblioteca y funciones\linkedlist\linkedlist\linkedlist.c
+	<stdio.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1543617179 source:c:\users\eli\documents\utn\biblioteca y funciones\linkedlist\linkedlist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1544639608 source:f:\linkedlist\controller.c
+	<stdio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1544639608 f:\linkedlist\linkedlist.h
+
+1544639608 f:\linkedlist\controller.h
+
+1544639608 f:\linkedlist\employee.h
+
+1544639608 source:f:\linkedlist\employee.c
+	<stdio.h>
+	"Employee.h"
+
+1544639608 source:f:\linkedlist\linkedlist.c
+	<stdio.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1544639608 source:f:\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1544639608 f:\linkedlist\parser.h
+
+1544639608 source:f:\linkedlist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1544639608 source:e:\linkedlist\controller.c
+	<stdio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1544639608 e:\linkedlist\linkedlist.h
+
+1544639608 e:\linkedlist\controller.h
+
+1544639608 e:\linkedlist\employee.h
+
+1544639608 source:e:\linkedlist\employee.c
+	<stdio.h>
+	"Employee.h"
+
+1544639608 source:e:\linkedlist\linkedlist.c
+	<stdio.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1544639608 source:e:\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1544639608 e:\linkedlist\parser.h
+
+1544639608 source:e:\linkedlist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1581551849 source:c:\users\santigo\desktop\finaleslab1\empleadossueldos\linkedlist\controller.c
+	<stdio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1580264962 c:\users\santigo\desktop\finaleslab1\empleadossueldos\linkedlist\linkedlist.h
+
+1580264962 c:\users\santigo\desktop\finaleslab1\empleadossueldos\linkedlist\controller.h
+
+1580264962 c:\users\santigo\desktop\finaleslab1\empleadossueldos\linkedlist\employee.h
+
+1580264962 source:c:\users\santigo\desktop\finaleslab1\empleadossueldos\linkedlist\employee.c
+	<stdio.h>
+	"Employee.h"
+
+1580264962 source:c:\users\santigo\desktop\finaleslab1\empleadossueldos\linkedlist\linkedlist.c
+	<stdio.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1581548369 source:c:\users\santigo\desktop\finaleslab1\empleadossueldos\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1580264962 c:\users\santigo\desktop\finaleslab1\empleadossueldos\linkedlist\parser.h
+
+1580264962 source:c:\users\santigo\desktop\finaleslab1\empleadossueldos\linkedlist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1582076510 source:c:\users\santigo\desktop\practica final 2020\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Usuarios.h"
+
+1580264962 c:\users\santigo\desktop\practica final 2020\linkedlist.h
+
+1582076043 c:\users\santigo\desktop\practica final 2020\usuarios.h
+
+1581887218 source:c:\users\santigo\desktop\practica final 2020\linkedlist.c
+	<stdio.h>
+	"LinkedList.h"
+	"Usuarios.h"
+
+1582076146 source:c:\users\santigo\desktop\practica final 2020\controller.c
+	<stdio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Usuarios.h"
+
+1581889453 c:\users\santigo\desktop\practica final 2020\controller.h
+
+1581982363 source:c:\users\santigo\desktop\practica final 2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Usuarios.h"
+	"parser.h"
+
+1581887156 c:\users\santigo\desktop\practica final 2020\parser.h
+
+1582076083 source:c:\users\santigo\desktop\practica final 2020\usuarios.c
+	<stdio.h>
+	"Usuarios.h"
+
+1582074682 source:c:\users\santigo\desktop\practica final 2020\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1580264962 c:\users\santigo\desktop\practica final 2020\validaciones.h
+
